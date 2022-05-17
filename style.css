@@ -553,6 +553,7 @@ progress::-moz-progress-bar{
   width: 100%;
   height: var(--header-height);
   background-color: var(--second-color);
+  max-width: 100vw;
 }
 
 .header > .container {
